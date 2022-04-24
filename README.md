@@ -10,7 +10,7 @@ As part of the analysis, we used python pyspark to perform our extract, transfor
 
 ## Results
 
-![Y](Vine_y.png)
+![Y](Assigment_16-Big-Data/Vine_y.png)
 ![N](Vine_n.png)
 
 - Vine and Non-Vine Reviews: Overall, there were many more non-vine reviews (45,388) compared to vine reviews (33). 
